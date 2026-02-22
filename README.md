@@ -1,4 +1,4 @@
-# 🧪 Spring_TryPostMapping – Formulardaten mit `@PostMapping` (Spring Boot)
+# 🧪 Spring_PostMapping – Formulardaten mit `@PostMapping` (Spring Boot)
 
 Dieses Repository ist ein **Mini‑Lernprojekt für Schüler**:  
 Du übst, wie man mit **Spring Boot (MVC)** eine Webseite mit einem **Formular** baut und die Eingaben mit `@PostMapping` serverseitig verarbeitet.
